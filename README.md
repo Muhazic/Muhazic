@@ -11,7 +11,9 @@
 
 <div>
  <p>
-I am Rookie-level Web developer<br> Able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+Strong set of skills in communication, time-management, listening, critical thinking, adaptability and teamwork. Experienced with retail and customer service. Worked In various retail stores for 3-4 years. Pursuing Bachelors in Computer Science at NEIU and my current standing is junior year. Java is my most focused language and my expertise. During time outside school, I have learned or still learning the basics of Windows PowerShell, SQL, HTML & CSS, JavaScript, Computer Networks, Operating Systems, Windows Applications, Schematics etc. Going to school fulltime expected graduation date is May, 2023. 
+
+My best trait is being hungry for knowledge and wanting to have a diverse set of skills and to be omniscient. During my free time I like reading about other subjects such as history, political philosophy, psychology, finance, science and anything else that is non-fiction. Owning a car sometimes can be time consuming, as if I'm not already busy enough. I make time to work on my own car rather than taking it to the dealer for two reasons. It is much cheaper and I enjoy doing manual labor while learning how certain parts work. I have a passion for older sports cars, especially Nissan made.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
