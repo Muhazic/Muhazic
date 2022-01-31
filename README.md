@@ -3,7 +3,7 @@
  <h2 align="center">Muhazic</h2>
 </p>
 
-### Hi there 👋 I'm [Muhazic](https://anandmainali.com.np)
+### Hi there 👋 I'm [Muhazic](https://www.linkedin.com/in/muhamed-fejzic-001159224/)
 > Student of SW at [NEIU](https://NEIU.EDU)
 
 
