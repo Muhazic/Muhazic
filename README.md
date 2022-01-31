@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Muhazic](https://www.linkedin.com/in/muhamed-fejzic-001159224/)
-> Student of SW at [NEIU](https://NEIU.EDU)
+> Student of CS at [NEIU](https://NEIU.EDU)
 
 
 <img src="https://komarev.com/ghpvc/?username=Muzahic" alt="Muhazic" />
