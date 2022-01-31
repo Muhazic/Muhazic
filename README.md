@@ -26,6 +26,7 @@ My best trait is being hungry for knowledge and wanting to have a diverse set of
  
  ### Programming Languages Currently Leanring... 🌐
  
+  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="68">](https://www.java.com/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="php" width="68">](https://SQL.net/)   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="68">](https://HTML.org/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="68">](https://CSS.com/) 
  
 ### Tools 🛠️
 
