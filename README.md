@@ -15,7 +15,7 @@ Strong set of skills in communication, time-management, listening, critical thin
 
 My best trait is being hungry for knowledge and wanting to have a diverse set of skills and to be omniscient. During my free time I like reading about other subjects such as history, political philosophy, psychology, finance, science and anything else that is non-fiction. Owning a car sometimes can be time consuming, as if I'm not already busy enough. I make time to work on my own car rather than taking it to the dealer for two reasons. It is much cheaper and I enjoy doing manual labor while learning how certain parts work. I have a passion for older sports cars, especially Nissan made.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+
 </p>
 </div>
 
